@@ -1,6 +1,5 @@
 ![Cover](https://github.com/Kawai-Senpai/Kawai-Senpai/blob/e8bf0a0fb7f5e4eb0e70232e6dcb491dd98cd73a/Assets/Cover.jpg)
 
-## Ranit Bhowmick
 <div align="center">
   <img href="https://www.linkedin.com/in/ranitbhowmick" 
   src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
@@ -10,7 +9,7 @@
   src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
 </div>
 
-
+## Ranit Bhowmick
 ### Robotics & Automation Engineer • AI & ML Enthusiast • Game Developer • Tech Innovator
 
 **Welcome to my GitHub Profile!** I'm Ranit, a passionate **Robotics & Automation Engineer**, with a deep fascination for AI, Machine Learning, Game Development, and cutting-edge technological innovations. I thrive on building full-fledged products, pushing the boundaries of automation, and exploring novel AI-driven systems.
