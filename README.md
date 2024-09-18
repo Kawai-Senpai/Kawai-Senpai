@@ -1,4 +1,14 @@
-# 💻 Ranit Bhowmick | Robotics & Automation Engineer | AI Enthusiast
+# Ranit Bhowmick
+### Robotics & Automation Engineer • AI & ML Enthusiast • Game Developer • Tech Innovator
+
+<div align="center">
+  <img href="https://www.linkedin.com/in/ranitbhowmick" 
+  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  <img href="https://www.youtubr.com/RanitBhowmick" 
+  src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo"  />
+  <img href="https://www.instagram.com/king_ranit" 
+  src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+</div>
 
 **Welcome to my GitHub Profile!** I'm Ranit, a passionate **Robotics & Automation Engineer**, with a deep fascination for AI, Machine Learning, Game Development, and cutting-edge technological innovations. I thrive on building full-fledged products, pushing the boundaries of automation, and exploring novel AI-driven systems.
 
@@ -14,26 +24,72 @@
 
 ---
 
-### 🌐 **Connect With Me**
-- **LinkedIn**: [www.linkedin.com/in/ranitbhowmick](https://www.linkedin.com/in/ranitbhowmick)
-- **Instagram (Portfolio)**: [instagram.com/king_ranit](https://www.instagram.com/king_ranit)
-- **YouTube**: [6-DOF Manipulation System Documentary](https://youtu.be/eZsCsYieYC0?si=J1AmUxUQYlHm9R97)
----
-
 ### 🛠️ **Let's Collaborate**
 I'm always open to discussing exciting projects and ideas. Whether it's robotics, AI, game development, or tech innovations, feel free to reach out! Let's build something amazing together.
 
 ---
 
-### 📚 **Skills**
-- **Programming Languages:** Python, C, Java, Assembly
-- **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, OpenCV, ROS2, Unreal Engine 5
-- **Technologies:** SLAM, AI, IoT, Automation, Robotics, 3D Design & Rendering
+### 🔧 **Skills**
+
+- **Programming Languages**: 
+  - **Python** (Advanced, Data Science, Machine Learning, Deep Learning, Computer Vision)
+  - **Java** (Object-Oriented, Functional, Procedural)
+  - **C** and **Assembly** (Embedded Systems, Microcontrollers, Arduino)
+  - **MatLab** and **SciLab** (Digital Signal Processing, Control Systems, Power Electronics, Motion Planning, KINOVA Robotic Arm)
+  
+- **Robotics and Automation**:
+  - **SLAM** (ROS2, ICP, Occupancy Grid Mapping, Noise Reduction using PyTorch, A* Pathfinding, Path Minimization Techniques)
+  - **CoppeliaSim**, **ROS**, **Unreal Engine**, **Automation Studio**, **PLC**, **HMI**, **Ladder Logic**, **PID Control**, **Micropython**
+  
+- **Artificial Intelligence & Machine Learning**: 
+  - **PyTorch**, **SciLab**, **TensorFlow**, **Keras**, **Scikit-learn**
+  
+- **Computer Vision**:
+  - **OpenCV**, **YOLO**, **Stable Diffusion**, **PIL**, **PyTorch Vision**
+
+- **Embedded Systems and IoT**:
+  - **ESP32**, **ESP32 CAM**, **Arduino**, **PlatformIO** 
+  - **Firmware Development** (Real-time applications, wireless motion, and sensor fusion)
+  
+- **Circuit Design & Prototyping**:
+  - Circuit Design, **PCB Design**, **Soldering**, **Breadboarding**, **Component Selection**
+
+- **Software Development**:
+  - **Figma**, **Photoshop**, **Unreal Engine**, **Kivy**, **Visual Studio**, **Git**
+
+- **3D Printing & Modeling**:
+  - **Blender**, **3Ds Max**, **Substance Painter**, **Ultimaker Cura**, **Repetier**
+  
+- **Automation & Control Systems**:
+  - **PLC**, **SCADA**, **HMI**, **Ladder Logic**, **PID Control**
+
+- **Signal Processing**:
+  - **Modulation/Demodulation**, **Encoding/Decoding**, **Filtering**, **Fourier Transform**
+  
+- **Data Communication & Networking**:
+  - **TCP/IP**, **UDP**, **HTTP**, **MQTT**, **Bluetooth**, **Wi-Fi**
+
+- **Website Frontend Development**:
+  - **Wix Velo API**, **Figma**, **Tailwind**, **Vite + JavaScript**, **Framer Motion**
+
+- **Website Backend Development**:
+  - **Python**, **Flask + Flask-SocketIO API**, **FastAPI**, **JWT**, **MongoDB**
+
+- **Deployment & DevOps**:
+  - **Linux**, **Docker**, **Hypercorn**, **Gunicorn**, **NginX**, **Cloudflare Tunnel**
+  
+- **Microcontroller Programming**:
+  - **ESP32**, **Arduino UNO**, **Arduino Nano** (Firmware Development for IoT and real-time applications)
+
+- **Data Acquisition & Processing**:
+  - **FFT**, **Filtering**, **Edge Detection**, Machine Learning techniques for classification and regression
+  
+- **Wireless Communication & Data Transmission**:
+  - **Wi-Fi**, **Bluetooth**, **RF Communication**, **HTTP**, **TCP/IP**, **UDP**, **WebSockets**
 
 ---
 
 ### 🔧 **Tools**
-##
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -162,3 +218,12 @@ I'm always open to discussing exciting projects and ideas. Whether it's robotics
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" height="40" alt="Premire Pro logo"  />
     <img width="12" />
+
+
+
+
+
+
+
+
+
