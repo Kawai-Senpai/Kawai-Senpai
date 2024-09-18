@@ -1,3 +1,5 @@
+![Cover](https://github.com/Kawai-Senpai/Kawai-Senpai/blob/e8bf0a0fb7f5e4eb0e70232e6dcb491dd98cd73a/Assets/Cover.jpg)
+
 ## Ranit Bhowmick
 <div align="center">
   <img href="https://www.linkedin.com/in/ranitbhowmick" 
