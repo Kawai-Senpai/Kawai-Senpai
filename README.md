@@ -25,11 +25,15 @@ I'm always open to discussing exciting projects and ideas. Whether it's robotics
 
 ---
 
-### 🔧 **Skills**
+### 📚 **Skills**
 - **Programming Languages:** Python, C, Java, Assembly
 - **Libraries & Frameworks:** NumPy, Pandas, Scikit-Learn, OpenCV, ROS2, Unreal Engine 5
 - **Technologies:** SLAM, AI, IoT, Automation, Robotics, 3D Design & Rendering
-- **Tools:** 
+
+---
+
+### 🔧 **Tools**
+##
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
