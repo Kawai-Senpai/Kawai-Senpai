@@ -1,6 +1,4 @@
-# Ranit Bhowmick
-### Robotics & Automation Engineer • AI & ML Enthusiast • Game Developer • Tech Innovator
-
+## Ranit Bhowmick
 <div align="center">
   <img href="https://www.linkedin.com/in/ranitbhowmick" 
   src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
@@ -9,6 +7,9 @@
   <img href="https://www.instagram.com/king_ranit" 
   src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
 </div>
+
+
+### Robotics & Automation Engineer • AI & ML Enthusiast • Game Developer • Tech Innovator
 
 **Welcome to my GitHub Profile!** I'm Ranit, a passionate **Robotics & Automation Engineer**, with a deep fascination for AI, Machine Learning, Game Development, and cutting-edge technological innovations. I thrive on building full-fledged products, pushing the boundaries of automation, and exploring novel AI-driven systems.
 
@@ -29,68 +30,68 @@ I'm always open to discussing exciting projects and ideas. Whether it's robotics
 
 ---
 
-### 🔧 **Skills**
+### 🛠️ **Skills**
 
-- **Programming Languages**: 
-  - **Python** (Advanced, Data Science, Machine Learning, Deep Learning, Computer Vision)
-  - **Java** (Object-Oriented, Functional, Procedural)
-  - **C** and **Assembly** (Embedded Systems, Microcontrollers, Arduino)
-  - **MatLab** and **SciLab** (Digital Signal Processing, Control Systems, Power Electronics, Motion Planning, KINOVA Robotic Arm)
-  
-- **Robotics and Automation**:
-  - **SLAM** (ROS2, ICP, Occupancy Grid Mapping, Noise Reduction using PyTorch, A* Pathfinding, Path Minimization Techniques)
-  - **CoppeliaSim**, **ROS**, **Unreal Engine**, **Automation Studio**, **PLC**, **HMI**, **Ladder Logic**, **PID Control**, **Micropython**
-  
-- **Artificial Intelligence & Machine Learning**: 
-  - **PyTorch**, **SciLab**, **TensorFlow**, **Keras**, **Scikit-learn**
-  
-- **Computer Vision**:
-  - **OpenCV**, **YOLO**, **Stable Diffusion**, **PIL**, **PyTorch Vision**
+#### 💻 **Programming Languages**
+- 🐍 **Python**: Advanced, Data Science, Machine Learning, Deep Learning, Computer Vision
+- ☕ **Java**: Object-Oriented, Functional, Procedural Programming
+- 💾 **C** & **Assembly**: Embedded Systems, Microcontrollers, Arduino
+- 🧮 **MatLab** & **SciLab**: Digital Signal Processing, Control Systems, Power Electronics, Motion Planning, KINOVA Robotic Arm
 
-- **Embedded Systems and IoT**:
-  - **ESP32**, **ESP32 CAM**, **Arduino**, **PlatformIO** 
-  - **Firmware Development** (Real-time applications, wireless motion, and sensor fusion)
-  
-- **Circuit Design & Prototyping**:
-  - Circuit Design, **PCB Design**, **Soldering**, **Breadboarding**, **Component Selection**
+#### 🤖 **Robotics & Automation**
+- 🦾 **SLAM**: ROS2, ICP, Occupancy Grid Mapping, Noise Reduction using PyTorch, A* Pathfinding, Path Minimization Techniques
+- 🔧 **Tools**: CoppeliaSim, ROS, Unreal Engine, Automation Studio, PLC, HMI, Ladder Logic, PID Control, Micropython
 
-- **Software Development**:
-  - **Figma**, **Photoshop**, **Unreal Engine**, **Kivy**, **Visual Studio**, **Git**
+#### 🧠 **Artificial Intelligence & Machine Learning**
+- 📚 **Libraries**: PyTorch, SciLab, TensorFlow, Keras, Scikit-learn
 
-- **3D Printing & Modeling**:
-  - **Blender**, **3Ds Max**, **Substance Painter**, **Ultimaker Cura**, **Repetier**
-  
-- **Automation & Control Systems**:
-  - **PLC**, **SCADA**, **HMI**, **Ladder Logic**, **PID Control**
+#### 👁️ **Computer Vision**
+- 📸 **Technologies**: OpenCV, YOLO, Stable Diffusion, PIL, PyTorch Vision
 
-- **Signal Processing**:
-  - **Modulation/Demodulation**, **Encoding/Decoding**, **Filtering**, **Fourier Transform**
-  
-- **Data Communication & Networking**:
-  - **TCP/IP**, **UDP**, **HTTP**, **MQTT**, **Bluetooth**, **Wi-Fi**
+#### 📡 **Embedded Systems & IoT**
+- ⚙️ **Microcontrollers**: ESP32, ESP32 CAM, Arduino, PlatformIO
+- 🌐 **Firmware Development**: Real-time applications, Wireless motion, Sensor fusion
 
-- **Website Frontend Development**:
-  - **Wix Velo API**, **Figma**, **Tailwind**, **Vite + JavaScript**, **Framer Motion**
+#### 🔌 **Circuit Design & Prototyping**
+- 🔩 **Skills**: Circuit Design, PCB Design, Soldering, Breadboarding, Component Selection
 
-- **Website Backend Development**:
-  - **Python**, **Flask + Flask-SocketIO API**, **FastAPI**, **JWT**, **MongoDB**
+#### 💻 **Software Development**
+- 🖌️ **Tools**: Figma, Photoshop, Unreal Engine, Kivy, Visual Studio, Git
 
-- **Deployment & DevOps**:
-  - **Linux**, **Docker**, **Hypercorn**, **Gunicorn**, **NginX**, **Cloudflare Tunnel**
-  
-- **Microcontroller Programming**:
-  - **ESP32**, **Arduino UNO**, **Arduino Nano** (Firmware Development for IoT and real-time applications)
+#### 🖨️ **3D Printing & Modeling**
+- 🧊 **Tools**: Blender, 3Ds Max, Substance Painter, Ultimaker Cura, Repetier
 
-- **Data Acquisition & Processing**:
-  - **FFT**, **Filtering**, **Edge Detection**, Machine Learning techniques for classification and regression
-  
-- **Wireless Communication & Data Transmission**:
-  - **Wi-Fi**, **Bluetooth**, **RF Communication**, **HTTP**, **TCP/IP**, **UDP**, **WebSockets**
+#### 🏭 **Automation & Control Systems**
+- 🔄 **Technologies**: PLC, SCADA, HMI, Ladder Logic, PID Control
+
+#### 🔊 **Signal Processing**
+- 📡 **Skills**: Modulation/Demodulation, Encoding/Decoding, Filtering, Fourier Transform
+
+#### 🌐 **Data Communication & Networking**
+- 📶 **Protocols**: TCP/IP, UDP, HTTP, MQTT, Bluetooth, Wi-Fi
+
+#### 🌍 **Website Frontend Development**
+- 🖼️ **Technologies**: Wix Velo API, Figma, Tailwind, Vite + JavaScript, Framer Motion
+
+#### 🔒 **Website Backend Development**
+- 🐍 **Languages**: Python, Flask + Flask-SocketIO API, FastAPI, JWT, MongoDB
+
+#### 🚀 **Deployment & DevOps**
+- 🐳 **Tools**: Linux, Docker, Hypercorn, Gunicorn, NginX, Cloudflare Tunnel
+
+#### 📟 **Microcontroller Programming**
+- 🛠️ **Devices**: ESP32, Arduino UNO, Arduino Nano (Firmware Development for IoT and Real-time Applications)
+
+#### 📈 **Data Acquisition & Processing**
+- 📊 **Techniques**: FFT, Filtering, Edge Detection, Machine Learning for Classification & Regression
+
+#### 📡 **Wireless Communication & Data Transmission**
+- 📡 **Technologies**: Wi-Fi, Bluetooth, RF Communication, HTTP, TCP/IP, UDP, WebSockets
 
 ---
 
 ### 🔧 **Tools**
-
+####
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
