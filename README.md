@@ -1,12 +1,15 @@
 ![Cover](https://github.com/Kawai-Senpai/Kawai-Senpai/blob/e8bf0a0fb7f5e4eb0e70232e6dcb491dd98cd73a/Assets/Cover.jpg)
 
 <div align="center">
-  <img href="https://www.linkedin.com/in/ranitbhowmick" 
-  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-  <img href="https://www.youtubr.com/RanitBhowmick" 
-  src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo"  />
-  <img href="https://www.instagram.com/king_ranit" 
-  src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/ranitbhowmick" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/RanitBhowmick" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/king_ranit" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo" />
+  </a>
 </div>
 
 ## Ranit Bhowmick
