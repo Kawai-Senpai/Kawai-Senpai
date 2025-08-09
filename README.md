@@ -4,13 +4,11 @@
   <a href="https://www.linkedin.com/in/ranitbhowmick" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/RanitBhowmick" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/king_ranit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo" />
+  <a href="https://ranitbhowmick.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=4B8BBE&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="website logo" />
   </a>
 </div>
+
 
 ## Ranit Bhowmick
 ### Robotics & Automation Engineer • AI & ML Enthusiast • Game Developer • Tech Innovator
@@ -223,6 +221,7 @@ I'm always open to discussing exciting projects and ideas. Whether it's robotics
     <img width="12" />
     <img src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" height="40" alt="Premire Pro logo"  />
     <img width="12" />
+
 
 
 
